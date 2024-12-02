@@ -1,0 +1,6 @@
+train: C:\Users\akash\OneDrive\Desktop\weaponnewproject\images\train
+val: C:\Users\akash\OneDrive\Desktop\weaponnewproject\images\val
+test: C:\Users\akash\OneDrive\Desktop\weaponnewproject\images\test
+
+nc: 1
+names: ['Handgun']
